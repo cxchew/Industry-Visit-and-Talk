@@ -13,23 +13,23 @@ PPG Industries is an elite global leader in paints, coatings, and specialty mate
 ## 📸 Evidence of Engagement
 
 <p align="center">
-  <img src="images/ppg_group_photo.jpeg" alt="UTM Data Engineering Team at PPG Industries" width="85%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+  <img src="images/ppg_group_photo.jpeg" alt="UTM Data Engineering Team at PPG Industries" width="50%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
   <br>
   <i>Figure 1: Universiti Teknologi Malaysia (UTM) Year 3 Data Engineering Students' Group Photo at PPG Industries.</i>
 </p>
 
 ---
 
-## 🧠 Technical Reflection: From Field Gaps to Production Code
+## 🧠 Reflection
 
-### 1. What I Learnt: Discovering the Core Data Gaps
+### 1. What I Learnt
 This industrial visit completely changed how I view data pipelines. Seeing the scale of PPG's operations made me realize that inside massive warehouses, a mismatch between **physical material movement** and **digital ledger records** isn't just an administrative headache, it is an expensive operational risk. 
 
 I also observed every data chemical assets and specialized coatings, which have strict shelf lives and storage constraints. When inventory updates are delayed or trapped in separate data silos, managers cannot easily spot stock that is creeping past its shelf life or calculate the financial impact of expiring materials in real time. 
 
 This realization shifted my mindset from viewing data engineering as purely managing database storage to seeing it as the structural backbone needed to prevent real-world supply chain failures.
 
-### 2. Project Execution: Building the Recoverable Assets Pipeline
+### 2. Project Execution
 Motivated by these exact field challenges, I designed and developed the **Recoverable Assets & Inventory Risk Pipeline** to directly address material tracking issues. 
 
 * My team worked together to construct an automated, end-to-end data pipeline that ingests daily material logs using **Microsoft Azure**, stripping away the old manual overhead.
